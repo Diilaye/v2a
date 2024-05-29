@@ -4,7 +4,7 @@ const path = require('path');
 
 const app = express();
 
-const port = 4200;
+const port = 5800;
 
 app.use(express.static(__dirname + '/web/'));
 
